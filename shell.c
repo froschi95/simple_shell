@@ -14,5 +14,8 @@
 
 int main(void)
 {
-	print_prompt();
+	while (1) {
+		print_prompt();
+	}
+	exit(EXIT_SUCCESS);
 }
