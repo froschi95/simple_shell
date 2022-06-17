@@ -18,5 +18,5 @@ int main(void)
 	{
 		print_prompt();
 	}
-	exit(EXIT_SUCCESS);
+	exit(0);
 }
